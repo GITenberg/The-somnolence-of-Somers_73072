@@ -1,11 +1,16 @@
 _repo: The-somnolence-of-Somers_73072
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73072-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratton, Frank N.
     gutenberg_agent_id: '56934'
     url: http://www.gutenberg.org/2009/agents/56934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73072#The-somnolence-of-Somers
 gutenberg_issued: '2024-02-29'
 gutenberg_type: Text
 identifiers:
